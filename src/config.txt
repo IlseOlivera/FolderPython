@@ -1,0 +1,2 @@
+$ python config.py
+Couldn't find the config.txt file!
